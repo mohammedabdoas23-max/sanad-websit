@@ -1,8 +1,4 @@
 
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>منصة سند للخدمات الإلكترونية والتعليمية | خدمات طلابية متكاملة</title>
   <meta name="description" content="حل واجبات وكوزات، مشاريع وتقارير، عروض تقديمية، ملخصات ومراجعات — دعم سريع ومتابعة خاصة لطلاب جامعة الملك سعود وغيرها. واتساب وتيليجرام." />
   <meta property="og:title" content="منصة سند للخدمات الإلكترونية والتعليمية" />
